@@ -1,0 +1,8 @@
+Client/*.user
+Client/debug/*
+Client/release/*
+Server/*.user
+Server/debug/*
+Server/release/*
+*.qmake.stash
+Makefile*
